@@ -93,3 +93,4 @@ Use the **Reports & Tools** menu to convert XML results into clean HTML reports.
 This tool is intended strictly for **authorized penetration testing, CTF competitions, and educational purposes**. Scanning networks or systems without explicit permission is illegal in most jurisdictions. The author assumes no liability for misuse.
 
 ---
+Only Legend know What to do now with this tool 🙂
