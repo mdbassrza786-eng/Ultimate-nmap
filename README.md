@@ -96,4 +96,3 @@ This tool is intended strictly for **authorized penetration testing, CTF competi
 
 ## 📄 License
 
-Add your preferred license here (MIT, GPL, etc.)
